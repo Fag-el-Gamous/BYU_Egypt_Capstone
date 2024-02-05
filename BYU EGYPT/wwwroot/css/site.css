@@ -1,0 +1,44 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+/*from webcomponents.byu.edu*/
+
+@media (min-width: 600px) {
+    byu-footer-column.double-wide {
+        order: 1;
+    }
+
+    .site-footer ::slotted(*) {
+        width: unset;
+    }
+}
+
+html, body {
+    height: 100%;
+}
+
+.containing-element {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.page-content {
+    flex-grow: 1;
+}
