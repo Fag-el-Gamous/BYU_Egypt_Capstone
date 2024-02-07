@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/BYU EGYPT.csproj": {}
+    "C:\\Users\\jacks\\Documents\\Github\\BYU_Egypt_Capstone\\BYU EGYPT\\BYU EGYPT.csproj": {}
   },
   "projects": {
-    "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/BYU EGYPT.csproj": {
+    "C:\\Users\\jacks\\Documents\\Github\\BYU_Egypt_Capstone\\BYU EGYPT\\BYU EGYPT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/BYU EGYPT.csproj",
+        "projectUniqueName": "C:\\Users\\jacks\\Documents\\Github\\BYU_Egypt_Capstone\\BYU EGYPT\\BYU EGYPT.csproj",
         "projectName": "BYU EGYPT",
-        "projectPath": "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/BYU EGYPT.csproj",
-        "packagesPath": "/Users/liamdong/.nuget/packages/",
-        "outputPath": "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/",
+        "projectPath": "C:\\Users\\jacks\\Documents\\Github\\BYU_Egypt_Capstone\\BYU EGYPT\\BYU EGYPT.csproj",
+        "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacks\\Documents\\Github\\BYU_Egypt_Capstone\\BYU EGYPT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/liamdong/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jacks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,32 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
