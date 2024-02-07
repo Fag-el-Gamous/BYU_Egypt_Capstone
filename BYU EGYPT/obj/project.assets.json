@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/liamdong/Desktop/BYU EGYPT back up/BYU EGYPT/BYU EGYPT.csproj",
+      "projectUniqueName": "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/BYU EGYPT.csproj",
       "projectName": "BYU EGYPT",
-      "projectPath": "/Users/liamdong/Desktop/BYU EGYPT back up/BYU EGYPT/BYU EGYPT.csproj",
+      "projectPath": "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/BYU EGYPT.csproj",
       "packagesPath": "/Users/liamdong/.nuget/packages/",
-      "outputPath": "/Users/liamdong/Desktop/BYU EGYPT back up/BYU EGYPT/obj/",
+      "outputPath": "/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/liamdong/.nuget/NuGet/NuGet.Config"
