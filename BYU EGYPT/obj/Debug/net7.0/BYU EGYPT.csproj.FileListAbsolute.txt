@@ -91,3 +91,34 @@
 /Users/liamdong/Desktop/BYU EGYPT back up/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.pdb
 /Users/liamdong/Desktop/BYU EGYPT back up/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.genruntimeconfig.cache
 /Users/liamdong/Desktop/BYU EGYPT back up/BYU EGYPT/obj/Debug/net7.0/ref/BYU EGYPT.dll
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/appsettings.Development.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/appsettings.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.staticwebassets.runtime.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.deps.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.runtimeconfig.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.dll
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.pdb
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.AssemblyInfo.cs
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.RazorAssemblyInfo.cache
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.RazorAssemblyInfo.cs
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.BYU EGYPT.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.build.BYU EGYPT.props
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BYU EGYPT.props
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BYU EGYPT.props
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets.build.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets.development.json
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/scopedcss/bundle/BYU EGYPT.styles.css
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/scopedcss/projectbundle/BYU EGYPT.bundle.scp.css
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.dll
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/refint/BYU EGYPT.dll
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.pdb
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.genruntimeconfig.cache
+/Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/ref/BYU EGYPT.dll

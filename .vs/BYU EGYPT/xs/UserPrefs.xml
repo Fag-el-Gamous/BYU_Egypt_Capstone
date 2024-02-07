@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{252655FE-D925-4968-BF8F-B2363AAA884D}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BYU EGYPT/Views/Home/Search.cshtml">
+    <Files>
+      <File FileName="BYU EGYPT/Views/Home/Search.cshtml" Line="288" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BYU EGYPT" expanded="True">
+            <Node name="BYU EGYPT">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Search.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BYU_220EGYPT PreferredExecutionTarget="/Applications/DuckDuckGo.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
