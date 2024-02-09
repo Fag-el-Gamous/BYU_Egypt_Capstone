@@ -122,91 +122,102 @@
 /Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.pdb
 /Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.genruntimeconfig.cache
 /Users/liamdong/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/ref/BYU EGYPT.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.csproj.AssemblyReference.cache
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.AssemblyInfoInputs.cache
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.AssemblyInfo.cs
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.csproj.CoreCompileInputs.cache
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.RazorAssemblyInfo.cache
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.RazorAssemblyInfo.cs
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.sourcelink.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\refint\BYU EGYPT.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.pdb
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\appsettings.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BYU EGYPT.staticwebassets.runtime.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BYU EGYPT.exe
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BYU EGYPT.deps.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BYU EGYPT.runtimeconfig.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BYU EGYPT.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BYU EGYPT.pdb
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Google.Protobuf.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Humanizer.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\K4os.Compression.LZ4.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\K4os.Hash.xxHash.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\MySql.Data.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Ubiety.Dns.Core.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Zstandard.Net.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\Renci.SshNet.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets\msbuild.BYU EGYPT.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets\msbuild.build.BYU EGYPT.props
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BYU EGYPT.props
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BYU EGYPT.props
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\scopedcss\bundle\BYU EGYPT.styles.css
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\scopedcss\projectbundle\BYU EGYPT.bundle.scp.css
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.csproj.CopyComplete
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\BYU EGYPT.genruntimeconfig.cache
-C:\Users\jacks\Documents\Github\BYU_Egypt_Capstone\BYU EGYPT\obj\Debug\net7.0\ref\BYU EGYPT.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.AssemblyReference.cache
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.AssemblyInfoInputs.cache
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.AssemblyInfo.cs
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.CoreCompileInputs.cache
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.RazorAssemblyInfo.cache
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.RazorAssemblyInfo.cs
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.sourcelink.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/refint/BYU EGYPT.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.pdb
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/appsettings.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.staticwebassets.runtime.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.exe
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.deps.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.runtimeconfig.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BYU EGYPT.pdb
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Humanizer.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/MySql.Data.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Ubiety.Dns.Core.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Zstandard.Net.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/Renci.SshNet.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/SshNet.Security.Cryptography.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.BYU EGYPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.build.BYU EGYPT.props
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BYU EGYPT.props
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BYU EGYPT.props
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/scopedcss/bundle/BYU EGYPT.styles.css
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/scopedcss/projectbundle/BYU EGYPT.bundle.scp.css
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.CopyComplete
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.genruntimeconfig.cache
+C:/Users/jacks/Documents/Github/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/ref/BYU EGYPT.dll
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.AssemblyReference.cache
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.AssemblyInfoInputs.cache
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.AssemblyInfo.cs
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.csproj.CoreCompileInputs.cache
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.MvcApplicationPartsAssemblyInfo.cache
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.RazorAssemblyInfo.cache
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.RazorAssemblyInfo.cs
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.dll
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/refint/BYU EGYPT.dll
+/Users/alismith/Desktop/BYU_Egypt_Capstone/BYU EGYPT/obj/Debug/net7.0/BYU EGYPT.pdb
